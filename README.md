@@ -1,24 +1,27 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# BARBARA EN CSS :woman:
 
-Things you may want to cover:
+### Here le lien de notre belle app Heroku: https://barbara-yeah-yeah.herokuapp.com
 
-* Ruby version
+## :family: Voici notre super équipe :family: :
 
-* System dependencies
+Noms | Pseudo Slack
+------------ | -------------
+Pauline Labaisse | @Pauline Labaisse :baby_chick:
+Margaux Cortier | @Margaux Crt :penguin:
+Irina Penkovskaia | @Ira P. :octocat:
+Max de Ponfilly | @Max :tiger:
+Hélène Martin | @Helene Cbm :panda_face:
+Victor Gabella | @Chartie :bear:
 
-* Configuration
+*Enjoy*
 
-* Database creation
+## Pour les plus curieux :
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Si vous souhaitez pull notre App Rails n'oubliez pas les fameux :
+```
+cd la-nature-ouais-ma-gueule
+bundle install
+rake db:create
+```
+Avant toute explosion de votre ordinateur sur le sol. :trollface: 
