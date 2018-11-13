@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>LaNatureOuaisMaGueule</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+  <header><%= render 'layouts/header' %></header>
+
+  <body class="background-color-filter">
+  <%= yield %>
+  <footer><%= render 'layouts/footer' %></footer>
+  </body>
+
+
+</html>
